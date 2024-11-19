@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Control.SchDoc
+Record=SheetSymbol|SourceDocument=Control.SchDoc|Designator=U_GATE_DRIVE|SchDesignator=U_GATE_DRIVE|FileName=GATE_DRIVE.SchDoc|SymbolType=Normal|RawFileName=GATE_DRIVE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Control.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Control.SchDoc|Designator=U_TL494|SchDesignator=U_TL494|FileName=TL494.SchDoc|SymbolType=Normal|RawFileName=TL494.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

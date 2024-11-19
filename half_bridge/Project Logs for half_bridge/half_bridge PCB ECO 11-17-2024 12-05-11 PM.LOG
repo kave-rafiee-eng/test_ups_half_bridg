@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIOD/1n5408 New Footprint=1N4508_REZA
+Change Component Footprint: Designator=D2 Old Footprint=DIOD/1n5408 New Footprint=1N4508_REZA
+Change Component Footprint: Designator=D3 Old Footprint=DIOD/1n5408 New Footprint=1N4508_REZA
+Change Component Footprint: Designator=D4 Old Footprint=TO220-2L New Footprint=1N4508_REZA
+Change Component Comment : Designator=D1 Old Comment=MUR860 New Comment=DIOD/RECTIFIERS
+Change Component Comment : Designator=D2 Old Comment=MUR860 New Comment=DIOD/RECTIFIERS
+Change Component Comment : Designator=D3 Old Comment=MUR860 New Comment=DIOD/RECTIFIERS
+Change Component Comment : Designator=D4 Old Comment=MUR860 New Comment=DIOD/RECTIFIERS

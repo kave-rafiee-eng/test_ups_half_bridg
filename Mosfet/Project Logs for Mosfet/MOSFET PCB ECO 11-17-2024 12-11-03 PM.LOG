@@ -1,0 +1,84 @@
+Added Component: Designator=+24(PIN1)
+Added Component: Designator=D1(DIOD/1N4007/SMD)
+Added Component: Designator=D2(DIOD/1N4007/SMD)
+Added Component: Designator=GND_VCC_GATE1(CONECTOR/XH/4PIN)
+Added Component: Designator=GND(PIN1)
+Added Component: Designator=H(pin_header_6pin)
+Added Component: Designator=Q1(TO-263-6L)
+Added Component: Designator=Q2(HYG025N06LS1C2)
+Added Component: Designator=Q3(TO-263-6L)
+Added Component: Designator=Q4(HYG025N06LS1C2)
+Added Component: Designator=R1(RES/0603)
+Added Component: Designator=R2(RES/0603)
+Added Component: Designator=R3(RES/1206)
+Added Component: Designator=R4(RES/1206)
+Added Pin To Net: NetName=+24 Pin=+24-1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND_VCC_GATE1-1
+Added Pin To Net: NetName=+24 Pin=GND_VCC_GATE1-2
+Added Pin To Net: NetName=NetD2_K Pin=GND_VCC_GATE1-3
+Added Pin To Net: NetName=NetD1_K Pin=GND_VCC_GATE1-4
+Added Pin To Net: NetName=NetH_1 Pin=H-1
+Added Pin To Net: NetName=NetH_1 Pin=H-2
+Added Pin To Net: NetName=NetH_1 Pin=H-3
+Added Pin To Net: NetName=NetH_1 Pin=H-4
+Added Pin To Net: NetName=NetH_1 Pin=H-5
+Added Pin To Net: NetName=NetH_1 Pin=H-6
+Added Pin To Net: NetName=NetD1_A Pin=Q1-1
+Added Pin To Net: NetName=+24 Pin=Q1-2
+Added Pin To Net: NetName=NetH_1 Pin=Q1-3
+Added Pin To Net: NetName=NetH_1 Pin=Q1-3
+Added Pin To Net: NetName=NetH_1 Pin=Q1-3
+Added Pin To Net: NetName=NetH_1 Pin=Q1-3
+Added Pin To Net: NetName=NetH_1 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_A Pin=Q2-1
+Added Pin To Net: NetName=+24 Pin=Q2-2
+Added Pin To Net: NetName=+24 Pin=Q2-2
+Added Pin To Net: NetName=+24 Pin=Q2-2
+Added Pin To Net: NetName=+24 Pin=Q2-2
+Added Pin To Net: NetName=+24 Pin=Q2-2
+Added Pin To Net: NetName=NetH_1 Pin=Q2-3
+Added Pin To Net: NetName=NetH_1 Pin=Q2-3
+Added Pin To Net: NetName=NetH_1 Pin=Q2-3
+Added Pin To Net: NetName=NetD2_A Pin=Q3-1
+Added Pin To Net: NetName=NetH_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetD2_A Pin=Q4-1
+Added Pin To Net: NetName=NetH_1 Pin=Q4-2
+Added Pin To Net: NetName=NetH_1 Pin=Q4-2
+Added Pin To Net: NetName=NetH_1 Pin=Q4-2
+Added Pin To Net: NetName=NetH_1 Pin=Q4-2
+Added Pin To Net: NetName=NetH_1 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetH_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetD1_K Pin=R3-1
+Added Pin To Net: NetName=NetD1_A Pin=R3-2
+Added Pin To Net: NetName=NetD2_K Pin=R4-1
+Added Pin To Net: NetName=NetD2_A Pin=R4-2
+Added Member To Class: ClassName=Mosfet Member=Component +24 PIN1
+Added Member To Class: ClassName=Mosfet Member=Component D1
+Added Member To Class: ClassName=Mosfet Member=Component D2
+Added Member To Class: ClassName=Mosfet Member=Component GND_VCC_GATE1 CONECTOR/XH/4PIN
+Added Member To Class: ClassName=Mosfet Member=Component GND PIN1
+Added Member To Class: ClassName=Mosfet Member=Component H PIN_HEADER6
+Added Member To Class: ClassName=Mosfet Member=Component Q1 HY4504B6
+Added Member To Class: ClassName=Mosfet Member=Component Q2 MOSFET_N_CH
+Added Member To Class: ClassName=Mosfet Member=Component Q3 MOSFET_N_CH
+Added Member To Class: ClassName=Mosfet Member=Component Q4 HY4504B6
+Added Member To Class: ClassName=Mosfet Member=Component R1 10k
+Added Member To Class: ClassName=Mosfet Member=Component R2 10k
+Added Member To Class: ClassName=Mosfet Member=Component R3 4.7R
+Added Member To Class: ClassName=Mosfet Member=Component R4 4.7R
